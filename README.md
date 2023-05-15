@@ -2,7 +2,7 @@
  This GitHub repository is a collection of projects completed during a 100-day coding challenge using Python, as part of a Udemy course.
  
 100 Days of Code with Python
-This repository contains the projects that I have completed as part of the "100 Days of Code: The Complete Python Pro Bootcamp for 2023" course on Udemy.
+This repository contains some of the projects that I have completed as part of the "100 Days of Code: The Complete Python Pro Bootcamp for 2023" course on Udemy.
 
 Course Description
 The "100 Days of Code: The Complete Python Pro Bootcamp for 2023" course is a comprehensive Python course that covers a wide range of topics, including:
